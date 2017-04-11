@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "aws-sdk", "~> 2.9"
+gem "aws-sdk", "~> 2.9.6"
 gem "thin", "~> 1.7"
 
 group :test do

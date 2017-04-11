@@ -37,7 +37,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  aws-sdk (~> 2.9)
+  aws-sdk (~> 2.9.6)
   hashie (~> 3.4.6)
   rspec (~> 3.5.0)
   thin (~> 1.7)
